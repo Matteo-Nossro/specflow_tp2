@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\TP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C07FE30-B45B-4C0F-857F-2D5CA410305E}|..\\SpecFlowScrutin.Specs\\SpecFlowScrutin.Specs.csproj|c:\\users\\toun-portable\\desktop\\behavioir_developpement\\specflowscrutin.specs\\stepdefinitions\\scrutinstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3694938E-7F88-46C3-B631-121B026B99F4}|TP2.csproj|c:\\users\\toun-portable\\desktop\\behavioir_developpement\\tp2\\scrutin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3694938E-7F88-46C3-B631-121B026B99F4}|TP2.csproj|solutionrelative:scrutin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3694938E-7F88-46C3-B631-121B026B99F4}|TP2.csproj|c:\\users\\toun-portable\\desktop\\behavioir_developpement\\tp2\\candidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3694938E-7F88-46C3-B631-121B026B99F4}|TP2.csproj|solutionrelative:candidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C07FE30-B45B-4C0F-857F-2D5CA410305E}|..\\SpecFlowScrutin.Specs\\SpecFlowScrutin.Specs.csproj|c:\\users\\toun-portable\\desktop\\behavioir_developpement\\specflowscrutin.specs\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C07FE30-B45B-4C0F-857F-2D5CA410305E}|..\\SpecFlowScrutin.Specs\\SpecFlowScrutin.Specs.csproj|c:\\users\\toun-portable\\desktop\\behavioir_developpement\\specflowscrutin.specs\\features\\scrutin.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C07FE30-B45B-4C0F-857F-2D5CA410305E}|..\\SpecFlowScrutin.Specs\\SpecFlowScrutin.Specs.csproj|c:\\users\\toun-portable\\desktop\\behavioir_developpement\\specflowscrutin.specs\\features\\scrutin.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C07FE30-B45B-4C0F-857F-2D5CA410305E}|..\\SpecFlowScrutin.Specs\\SpecFlowScrutin.Specs.csproj|c:\\users\\toun-portable\\desktop\\behavioir_developpement\\specflowscrutin.specs\\specflowscrutin.specs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Candidat.cs",
+              "DocumentMoniker": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\TP2\\Candidat.cs",
+              "RelativeDocumentMoniker": "Candidat.cs",
+              "ToolTip": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\TP2\\Candidat.cs",
+              "RelativeToolTip": "Candidat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:09:37.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScrutinStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\SpecFlowScrutin.Specs\\StepDefinitions\\ScrutinStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowScrutin.Specs\\StepDefinitions\\ScrutinStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\SpecFlowScrutin.Specs\\StepDefinitions\\ScrutinStepDefinitions.cs",
+              "RelativeToolTip": "..\\SpecFlowScrutin.Specs\\StepDefinitions\\ScrutinStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:19:41.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\SpecFlowScrutin.Specs\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowScrutin.Specs\\ImplicitUsings.cs",
+              "ToolTip": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\SpecFlowScrutin.Specs\\ImplicitUsings.cs",
+              "RelativeToolTip": "..\\SpecFlowScrutin.Specs\\ImplicitUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:20:27.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scrutin.cs",
+              "DocumentMoniker": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\TP2\\Scrutin.cs",
+              "RelativeDocumentMoniker": "Scrutin.cs",
+              "ToolTip": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\TP2\\Scrutin.cs",
+              "RelativeToolTip": "Scrutin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:03:45.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scrutin.feature",
+              "DocumentMoniker": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\SpecFlowScrutin.Specs\\Features\\Scrutin.feature",
+              "RelativeDocumentMoniker": "..\\SpecFlowScrutin.Specs\\Features\\Scrutin.feature",
+              "ToolTip": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\SpecFlowScrutin.Specs\\Features\\Scrutin.feature",
+              "RelativeToolTip": "..\\SpecFlowScrutin.Specs\\Features\\Scrutin.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-23T08:19:58.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Scrutin.feature.cs",
+              "DocumentMoniker": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\SpecFlowScrutin.Specs\\Features\\Scrutin.feature.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowScrutin.Specs\\Features\\Scrutin.feature.cs",
+              "ToolTip": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\SpecFlowScrutin.Specs\\Features\\Scrutin.feature.cs",
+              "RelativeToolTip": "..\\SpecFlowScrutin.Specs\\Features\\Scrutin.feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:19:57.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpecFlowScrutin.Specs",
+              "DocumentMoniker": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\SpecFlowScrutin.Specs\\SpecFlowScrutin.Specs.csproj",
+              "RelativeDocumentMoniker": "..\\SpecFlowScrutin.Specs\\SpecFlowScrutin.Specs.csproj",
+              "ToolTip": "C:\\Users\\Toun-portable\\Desktop\\behavioir_developpement\\SpecFlowScrutin.Specs\\SpecFlowScrutin.Specs.csproj",
+              "RelativeToolTip": "..\\SpecFlowScrutin.Specs\\SpecFlowScrutin.Specs.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T08:41:43.346Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
